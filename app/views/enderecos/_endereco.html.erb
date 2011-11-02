@@ -1,0 +1,26 @@
+<p>
+  <b>Logradouro:</b>
+  <%= endereco.logradouro %>
+</p>
+<p>
+<b>Numero:</b>
+  <%= endereco.numero %>
+</p>
+<b>Bairro:</b>
+  <%= endereco.bairro %>
+</p>
+<b>CEP:</b>
+  <%= endereco.cep %>
+</p>
+<b>Cidade:</b>
+  <%= endereco.cidade %>
+</p>
+<b>UF:</b>
+  <%= endereco.uf %>
+</p>
+
+<p>
+<%= link_to 'Excluir endereco', [cliente.endereco, endereco],
+  :confirm => 'Tem certeza?',
+  :method => :delete %>
+</p>

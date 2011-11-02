@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  logradouro: MyString
+  numero: 1
+  bairro: MyString
+  cep: MyString
+  cidade: MyString
+  uf: MyString
+  cliente: 
+  profissional: 
+
+two:
+  logradouro: MyString
+  numero: 1
+  bairro: MyString
+  cep: MyString
+  cidade: MyString
+  uf: MyString
+  cliente: 
+  profissional: 

@@ -1,0 +1,35 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Nome:</b>
+  <%= @profissional.nome %>
+</p>
+
+<p>
+  <b>Cpf:</b>
+  <%= @profissional.cpf %>
+</p>
+
+<p>
+  <b>Tel:</b>
+  <%= @profissional.tel %>
+</p>
+
+<p>
+  <b>Cel:</b>
+  <%= @profissional.cel %>
+</p>
+
+<p>
+  <b>Contato:</b>
+  <%= @profissional.contato %>
+</p>
+
+<p>
+  <b>Tipo:</b>
+  <%= @profissional.tipo %>
+</p>
+
+
+<%= link_to 'Edit', edit_profissional_path(@profissional) %> |
+<%= link_to 'Back', profissionals_path %>

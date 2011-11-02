@@ -1,0 +1,463 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"all",
+				"allow_destroy"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/models/endereco.rb",
+			"settings":
+			{
+				"buffer_size": 89,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/models/cliente.rb",
+			"settings":
+			{
+				"buffer_size": 84,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/models/profissional.rb",
+			"settings":
+			{
+				"buffer_size": 89,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/enderecos/edit.html.erb",
+			"settings":
+			{
+				"buffer_size": 122,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/clientes/new.html.erb",
+			"settings":
+			{
+				"buffer_size": 142,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/enderecos/_form.html.erb",
+			"settings":
+			{
+				"buffer_size": 696,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/controllers/enderecos_controller.rb",
+			"settings":
+			{
+				"buffer_size": 390,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 129.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/pablo/backup/Projetos/VeraMendes/vmendes/app/views/enderecos/_endereco.html.erb",
+		"/home/pablo/backup/Projetos/VeraMendes/vmendes/app/views/enderecos/new.html.erb",
+		"/home/pablo/backup/Projetos/VeraMendes/vmendes/app/views/clientes/new.html.erb",
+		"/home/pablo/backup/Projetos/VeraMendes/vmendes/app/views/enderecos/_form.html.erb",
+		"/home/pablo/backup/Projetos/VeraMendes/vmendes/app/views/clientes/show.html.erb",
+		"/home/pablo/backup/Projetos/VeraMendes/vmendes/app/views/clientes/_form.html.erb",
+		"/home/pablo/backup/Projetos/VeraMendes/vmendes/app/controllers/clientes_controller.rb",
+		"/home/pablo/backup/Projetos/VeraMendes/vmendes/app/controllers/enderecos_controller.rb",
+		"/home/pablo/backup/Projetos/VeraMendes/vmendes/config/routes.rb",
+		"/home/pablo/backup/Projetos/VeraMendes/vmendes/app/controllers/application_controller.rb",
+		"/home/pablo/backup/Projetos/VeraMendes/vmendes/app/controllers/profissionals_controller.rb",
+		"/home/pablo/backup/Projetos/VeraMendes/vmendes/app/models/profissional.rb",
+		"/home/pablo/backup/Projetos/VeraMendes/vmendes/app/models/cliente.rb",
+		"/home/pablo/Área de trabalho/Gemfile",
+		"/home/pablo/Área de trabalho/Rakefile",
+		"/home/pablo/backup/Projetos/VeraMendes/vmendes/app/models/admin_user.rb",
+		"/home/pablo/backup/Projetos/VeraMendes/vmendes/app/views/clientes/edit.html.erb",
+		"/home/pablo/backup/Projetos/VeraMendes/vmendes/app/views/clientes/index.html.erb",
+		"/home/pablo/backup/Projetos/VeraMendes/vmendes/app/views/clientes/_endereco_fields.html.erb",
+		"/home/pablo/backup/Projetos/VeraMendes/vmendes/app/models/endereco.rb",
+		"/home/pablo/backup/Projetos/VeraMendes/vmendes/app/views/profissionals/edit.html.erb",
+		"/home/pablo/backup/Projetos/VeraMendes/vmendes/app/views/profissionals/_endereco_fields.html.erb",
+		"/home/pablo/backup/Projetos/VeraMendes/vmendes/app/views/profissionals/_form.html.erb",
+		"/home/pablo/backup/Projetos/VeraMendes/vmendes/app/views/profissionals/index.html.erb",
+		"/home/pablo/backup/Projetos/VeraMendes/vmendes/app/views/profissionals/new.html.erb",
+		"/home/pablo/backup/Projetos/VeraMendes/vmendes/app/views/profissionals/show.html.erb",
+		"/home/pablo/backup/Projetos/VeraMendes/vmendes/app/views/clientes/cli/edit.html.erb",
+		"/home/pablo/backup/Projetos/VeraMendes/vmendes/app/views/clientes/cli/_endereco_fields.html.erb",
+		"/home/pablo/backup/Projetos/VeraMendes/vmendes/app/views/clientes/cli/_form.html.erb",
+		"/home/pablo/backup/Projetos/VeraMendes/vmendes/app/views/clientes/cli/index.html.erb",
+		"/home/pablo/backup/Projetos/VeraMendes/vmendes/app/views/clientes/cli/new.html.erb",
+		"/home/pablo/backup/Projetos/VeraMendes/vmendes/app/views/clientes/cli/show.html.erb",
+		"/home/pablo/backup/Projetos/VeraMendes/vmendes/modelos",
+		"/home/pablo/backup/Projetos/VeraMendes/vmendes/app/models/enderco.rb",
+		"/home/pablo/backup/Projetos/VeraMendes/veramendes/Rakefile",
+		"/home/pablo/backup/Diversos/modelos",
+		"/home/pablo/backup/Projetos/VeraMendes/veramendes/Gemfile",
+		"/home/pablo/backup/Projetos/VeraMendes/vmendes/Gemfile",
+		"/home/pablo/backup/Projetos/VeraMendes/vmendes/app/admin/clientes.rb",
+		"/home/pablo/backup/Projetos/VeraMendes/vmendes/app/assets/stylesheets/active_admin.css.scss",
+		"/home/pablo/backup/Projetos/VeraMendes/vmendes/app/admin/dashboards.rb",
+		"/home/pablo/backup/Projetos/VeraMendes/vmendes/app/views/layouts/application.html.erb",
+		"/home/pablo/backup/Projetos/VeraMendes/vmendes/tmp/cache/assets/C1F/2C0/sprockets%2F7e22ac4691855531726424a2f84530c7",
+		"/home/pablo/backup/Projetos/VeraMendes/vmendes/public/index.html",
+		"/home/pablo/backup/Projetos/VeraMendes/vmendes/tmp/cache/sass/5dc0d8bb692a648b5354e4ab3a108bc6be6fde3d/_base.css.scssc",
+		"/home/pablo/backup/Projetos/VeraMendes/vmendes/tmp/cache/sass/85808c80314b9b7d50f1b86c6b1021319fa8a708/_buttons.css.scssc",
+		"/home/pablo/backup/Projetos/VeraMendes/vmendes/script/rails",
+		"/home/pablo/backup/Projetos/VeraMendes/vmendes/app/admin/inicio.rb",
+		"/home/pablo/Downloads/284-active-admin/store-after/app/models/product.rb",
+		"/home/pablo/backup/Projetos/vmendes/Gemfile",
+		"/home/pablo/Downloads/284-active-admin/store-after/config/database.yml",
+		"/home/pablo/Downloads/284-active-admin/store-after/app/admin/products.rb",
+		"/home/pablo/Downloads/284-active-admin/store-after/app/models/category.rb",
+		"/home/pablo/backup/Projetos/vmendes/modelos",
+		"/home/pablo/backup/Projetos/vmendes/config/database.yml",
+		"/home/pablo/backup/Projetos/vmendes/Rakefile",
+		"/home/pablo/backup/Projetos/vmendes/app/admin/dashboards.rb",
+		"/home/pablo/backup/Projetos/app/app/admin/dashboards.rb",
+		"/home/pablo/backup/Projetos/app/Rakefile",
+		"/home/pablo/backup/Projetos/app/README",
+		"/home/pablo/backup/Projetos/app/Gemfile",
+		"/home/pablo/backup/Projetos/app/app/models/product.rb",
+		"/home/pablo/backup/Projetos/app/app/admin/products.rb",
+		"/home/pablo/backup/Projetos/app/app/models/category.rb",
+		"/home/pablo/backup/Projetos/adm/Rakefile",
+		"/home/pablo/backup/Projetos/adm/Gemfile",
+		"/home/pablo/backup/Projetos/site_adm/Gemfile"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 87.0,
+		"include_history":
+		[
+			""
+		],
+		"location_history":
+		[
+			"/home/pablo/backup/Projetos/VeraMendes/vmendes"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"_endereco_",
+			"answ",
+			"ques",
+			"surv",
+			"clie",
+			"ques",
+			"surv",
+			"ques",
+			"prof",
+			"surv",
+			"ans",
+			"ques",
+			"Powered"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/models/endereco.rb",
+					"settings":
+					{
+						"buffer_size": 89,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/models/cliente.rb",
+					"settings":
+					{
+						"buffer_size": 84,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								84,
+								84
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/models/profissional.rb",
+					"settings":
+					{
+						"buffer_size": 89,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								40,
+								40
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/views/enderecos/edit.html.erb",
+					"settings":
+					{
+						"buffer_size": 122,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/views/clientes/new.html.erb",
+					"settings":
+					{
+						"buffer_size": 142,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								142,
+								142
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/views/enderecos/_form.html.erb",
+					"settings":
+					{
+						"buffer_size": 696,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"tab_size": 2.0,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/controllers/enderecos_controller.rb",
+					"settings":
+					{
+						"buffer_size": 390,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								390,
+								390
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 301.0,
+	"status_bar_visible": true
+}
